@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap');
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.sticky-top {
+    position: sticky;
+    top: 0;
+    z-index: 50;
+}
+
+.profile-image {
+    background-image: url('https://placehold.co/150x150');
+    background-size: cover;
+    background-position: center;
+}
